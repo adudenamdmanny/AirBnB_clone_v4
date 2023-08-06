@@ -157,6 +157,5 @@ No known bugs at this time.
 
 Emmanuel Essien - [Github](https://github.com/adudenamdmanny) / [Twitter](https://twitter.com/adudenamdmanny)
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
