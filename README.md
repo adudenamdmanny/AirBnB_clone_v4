@@ -155,8 +155,8 @@ No known bugs at this time.
 #################
 ## Authors
 
-Emmanuel Essien - [Github](https://github.com/adudenamdmanny) / [Twitter](https://twitter.com/adudenamdmanny)
-Daniel Adejoro - [Github](https://github.com/dannykay62) / [Twitter](https://twitter.com//DanielAdejoro)
+1) Emmanuel Essien - [Github](https://github.com/adudenamdmanny) / [Twitter](https://twitter.com/adudenamdmanny)
+2) Daniel Adejoro - [Github](https://github.com/dannykay62) / [Twitter](https://twitter.com//DanielAdejoro)
 
 ## License
 Public Domain. No copy write protection. 
